@@ -1,2 +1,2 @@
-# Optimisation-du-s-quencement-des-atterrissages-par-radar-int-grant-l-IA
-Projet de stage technique - ONDA Aéroport Hassan I Laâyoune
+# Optimisation du séquencement des atterrissages par radar intégrant l’IA
+Projet de stage technique - ONDA Aéroport Hassan I Laâyoune - DUT en Ingénierie des Données & Intelligence Artificielle à EST Khénifra
