@@ -1,0 +1,23 @@
+artifact_path: file:C:/Users/ismai/OneDrive/Desktop/landing-optimizer/mlruns/1/models/m-5b83b5263f4d419f8b4f63345725e67e/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.12.0
+model_id: m-5b83b5263f4d419f8b4f63345725e67e
+model_size_bytes: 698035
+model_uuid: m-5b83b5263f4d419f8b4f63345725e67e
+prompts: null
+run_id: 952996e8984045a2a6acd62d453cfd95
+utc_time_created: '2026-05-12 11:05:55.450522'
